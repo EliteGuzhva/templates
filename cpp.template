@@ -1,0 +1,10 @@
+#include "../{{FILE}}.h"
+
+{{CAMEL_CLASS}}::{{CAMEL_CLASS}}()
+{
+  {{CURSOR}}
+}
+
+{{CAMEL_CLASS}}::~{{CAMEL_CLASS}}()
+{
+}

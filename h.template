@@ -1,0 +1,10 @@
+//! @author {{NAME}} ({{EMAIL}})
+//! @file   {{FILER}}
+//! @date   {{TODAY}}
+
+#ifndef {{MACRO_GUARD}}
+#define {{MACRO_GUARD}}
+
+{{CURSOR}}
+
+#endif // {{MACRO_GUARD}}

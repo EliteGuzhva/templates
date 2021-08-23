@@ -1,0 +1,17 @@
+//! @author {{NAME}} ({{EMAIL}})
+//! @file   {{FILER}}
+//! @date   {{TODAY}}
+
+#pragma once
+#ifndef {{MACRO_GUARD}}
+#define {{MACRO_GUARD}}
+
+class {{CAMEL_CLASS}} {
+public:
+  {{CAMEL_CLASS}} ({{CURSOR}});
+  virtual ~{{CAMEL_CLASS}} ();
+private:
+  /* private data */
+};
+
+#endif // {{MACRO_GUARD}}
